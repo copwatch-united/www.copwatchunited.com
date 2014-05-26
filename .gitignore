@@ -19,3 +19,10 @@
 Icon?
 ehthumbs.db
 Thumbs.db
+
+# Vagrant Whatsits #
+####################
+.vagrant/
+Vagrantfile
+puphpet/
+xhprof/
